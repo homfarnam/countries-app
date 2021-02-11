@@ -1,0 +1,28 @@
+.country {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.countryData {
+  display: flex;
+  flex-direction: row;
+}
+
+.countryData p {
+  margin: 10px;
+}
+
+.details {
+  margin-left: 20px;
+  margin-right: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.details span {
+  margin-right: 5px;
+}
